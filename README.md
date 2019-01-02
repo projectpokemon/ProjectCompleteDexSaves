@@ -1,4 +1,4 @@
-# CompleteDexSavesProject
+# Project Complete Dex Saves
 
 ### What is this?
 The collective effort of Project Pokémon to preserve and provide saves with every available species.
